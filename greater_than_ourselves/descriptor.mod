@@ -3,5 +3,5 @@ tags={
 	"Gameplay"
 }
 name="Greater Than Ourselves via Tradition"
-picture="thumbnail.jpg"
+picture="thumbnail.png"
 supported_version="2.6.2"
