@@ -1,0 +1,31 @@
+greater_than_ourselves = {
+	modifier = {
+	}
+
+	resources = {
+		category = edicts
+		cost = {
+			# originally: influence = @Edict2Cost. is equal to 200
+                        influence = 200
+		}
+	}
+
+	# originally: length = @EdictDuration. is equal to 3600
+        length = 3600 
+
+	potential = {
+                OR = {
+		        has_tradition = "tr_harmony_the_greater_good"
+		        has_tradition = "tr_synchronicity_instinctive_synchronization"
+		        has_tradition = "tr_synchronicity_integrated_preservation"
+                }
+	}
+
+	allow = {
+	}
+
+	ai_weight = {
+		# originally: weight = @EdictHighPrio. is equal to 100
+                weight = 100
+	}
+}

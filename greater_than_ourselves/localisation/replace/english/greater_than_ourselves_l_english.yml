@@ -1,0 +1,5 @@
+﻿l_english:
+ resolution_greatergood_greater_than_ourselves_tooltip:0 "§YBasic Subsistence§! and §YStratified Economy§! living standards are §Rbanned§!.\n\n§YChattel Slavery§!, §YLivestock§!, and §YGrid Amalgamation§! slavery types are §Rbanned§!."
+ tr_harmony_the_greater_good_desc:4 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! increased by §G+25%§!.\n\nGives access to the §Y$edict_greater_than_ourselves$§! Empire Edict."
+ tr_synchronicity_integrated_preservation_desc:4 "§Y$job_coordinator_plural$§! produce §Y3§! additional £mod_country_admin_cap_add£ §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§! and reduce §Y$MOD_PLANET_CRIME_NO_HAPPINESS_ADD$§! by 2.\n\nGives access to the §Y$edict_greater_than_ourselves$§! Empire Edict."
+ tr_synchronicity_instinctive_synchronization_desc:2 "§Y$job_synapse_drone_plural$§! produce §Y2§! £mod_pop_amenities_usage_no_happiness_mult£ Amenities.\n\nGives access to the §Y$edict_greater_than_ourselves$§! Empire Edict."
